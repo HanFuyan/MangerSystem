@@ -2,4 +2,4 @@
 
 This is a Student Manager System
 
-Designer：zoulux
+Designer：zouluxian
